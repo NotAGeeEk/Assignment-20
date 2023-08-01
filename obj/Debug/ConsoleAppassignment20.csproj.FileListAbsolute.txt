@@ -1,0 +1,8 @@
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\bin\Debug\ConsoleAppassignment20.exe.config
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\bin\Debug\ConsoleAppassignment20.exe
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\bin\Debug\ConsoleAppassignment20.pdb
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\obj\Debug\ConsoleAppassignment20.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\obj\Debug\ConsoleAppassignment20.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\obj\Debug\ConsoleAppassignment20.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\obj\Debug\ConsoleAppassignment20.exe
+D:\assignemt exercise\Assignment-20\ConsoleAppassignment20\ConsoleAppassignment20\obj\Debug\ConsoleAppassignment20.pdb
